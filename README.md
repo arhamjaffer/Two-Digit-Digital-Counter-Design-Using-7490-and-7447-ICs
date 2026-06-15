@@ -74,43 +74,35 @@ This allows the count to be displayed as:
 
 ## 📷 Project Gallery
 
-### Circuit Diagram
+<h2 align="center">📷 Project Gallery</h2>
 
-![Circuit](Images/Circuit.png)
+<h3 align="center">Circuit Schematic</h3>
 
----
+<p align="center">
+<img src="https://github.com/arhamjaffer/Two-Digit-Digital-Counter-Design-Using-7490-and-7447-ICs/blob/main/schematic.PNG" width="850">
+</p>
 
-### Simulation Result
+<h3 align="center">PCB Layout</h3>
 
-![Simulation](Images/Simulation.png)
+<p align="center">
+<img src="https://github.com/arhamjaffer/Two-Digit-Digital-Counter-Design-Using-7490-and-7447-ICs/blob/main/pcb%20view.PNG" width="850">
+</p>
 
----
+<h3 align="center">3D PCB Views</h3>
 
-### PCB Layout
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github.com/arhamjaffer/Two-Digit-Digital-Counter-Design-Using-7490-and-7447-ICs/blob/main/front%20pcb.PNG" width="450"><br>
+<b>Front View</b>
+</td>
 
-![PCB Layout](Images/PCB_Layout.png)
-
----
-
-### 3D PCB View
-
-![3D View](Images/PCB_3D.png)
-
----
-
-## 📂 Repository Structure
-
-```text
-Two-Digit-Digital-Counter-7490-7447
-│
-├── README.md
-├── Images
-├── PCB_Files
-├── Simulation_Files
-├── Gerber_Files
-└── Documentation
-```
-
+<td align="center">
+<img src="https://github.com/arhamjaffer/Two-Digit-Digital-Counter-Design-Using-7490-and-7447-ICs/blob/main/back%20pcb.PNG" width="450"><br>
+<b>Back View</b>
+</td>
+</tr>
+</table>
 ---
 
 ## 🎯 Learning Outcomes
