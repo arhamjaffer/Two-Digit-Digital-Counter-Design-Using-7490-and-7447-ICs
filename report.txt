@@ -1,0 +1,184 @@
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'U1:Package_DIP:DIP-16_W7.62mm'.
+Info: Processing symbol 'SW1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'U3:Package_DIP:DIP-16_W7.62mm'.
+Info: Processing symbol 'U4:Package_DIP:DIP-14_W7.62mm'.
+Info: Processing symbol 'U5:Package_DIP:DIP-14_W7.62mm'.
+Info: Processing symbol 'U6:Display_7Segment:7SegmentLED_LTS6760_LTS6780'.
+Info: Processing symbol 'U7:Display_7Segment:7SegmentLED_LTS6760_LTS6780'.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'Two-Digit Digital Counter Design Using 7490 and 7447 ICs.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Add net GND.
+Connected J1 pin 2 to GND.
+Add net +5V.
+Connected J1 pin 1 to +5V.
+Updated J1 unit metadata.
+Added SW1 (footprint 'Button_Switch_THT:SW_PUSH_6mm').
+Changed REF** reference designator to SW1.
+Changed SW1 value from SW_PUSH_6mm to SW_Push.
+Updated SW1 symbol association from  to /573c55ce-bf31-466b-a6fe-c5cdf0a005dd.
+Updated SW1 fields.
+Updated SW1 sheetname to '/'.
+Updated SW1 sheetfile to 'Two-Digit Digital Counter Design Using 7490 and 7447 ICs.kicad_sch'.
+Add net Net-(U4-GND).
+Connected SW1 pin 2 to Net-(U4-GND).
+Connected SW1 pin 1 to +5V.
+Connected SW1 pin 2 to Net-(U4-GND).
+Connected SW1 pin 1 to +5V.
+Updated SW1 unit metadata.
+Added U1 (footprint 'Package_DIP:DIP-16_W7.62mm').
+Changed REF** reference designator to U1.
+Changed U1 value from DIP-16_W7.62mm to 7447.
+Updated U1 symbol association from  to /ab88569e-5d4d-4f2e-8165-aaf471395cf4.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'Two-Digit Digital Counter Design Using 7490 and 7447 ICs.kicad_sch'.
+Connected U1 pin 7 to +5V.
+Connected U1 pin 16 to +5V.
+Add net Net-(U1-~{f}).
+Connected U1 pin 15 to Net-(U1-~{f}).
+Add net Net-(U1-~{d}).
+Connected U1 pin 10 to Net-(U1-~{d}).
+Add net Net-(U1-~{g}).
+Connected U1 pin 14 to Net-(U1-~{g}).
+Connected U1 pin 3 to +5V.
+Connected U1 pin 8 to GND.
+Connected U1 pin 1 to +5V.
+Connected U1 pin 2 to +5V.
+Add net Net-(U1-~{b}).
+Connected U1 pin 12 to Net-(U1-~{b}).
+Add net Net-(U1-~{a}).
+Connected U1 pin 13 to Net-(U1-~{a}).
+Connected U1 pin 6 to +5V.
+Add net Net-(U1-~{c}).
+Connected U1 pin 11 to Net-(U1-~{c}).
+Connected U1 pin 5 to +5V.
+Connected U1 pin 4 to +5V.
+Add net Net-(U1-~{e}).
+Connected U1 pin 9 to Net-(U1-~{e}).
+Updated U1 unit metadata.
+Added U3 (footprint 'Package_DIP:DIP-16_W7.62mm').
+Changed REF** reference designator to U3.
+Changed U3 value from DIP-16_W7.62mm to 7447.
+Updated U3 symbol association from  to /b2fb0433-5e28-4804-821b-007fa39afd97.
+Updated U3 sheetname to '/'.
+Updated U3 sheetfile to 'Two-Digit Digital Counter Design Using 7490 and 7447 ICs.kicad_sch'.
+Connected U3 pin 8 to GND.
+Add net Net-(U3-~{g}).
+Connected U3 pin 14 to Net-(U3-~{g}).
+Add net unconnected-(U3-VCC-Pad16).
+Connected U3 pin 16 to unconnected-(U3-VCC-Pad16).
+Connected U3 pin 3 to +5V.
+Add net Net-(U3-~{b}).
+Connected U3 pin 12 to Net-(U3-~{b}).
+Add net Net-(U3-~{c}).
+Connected U3 pin 11 to Net-(U3-~{c}).
+Connected U3 pin 5 to +5V.
+Add net Net-(U3-~{d}).
+Connected U3 pin 10 to Net-(U3-~{d}).
+Add net Net-(U3-D).
+Connected U3 pin 6 to Net-(U3-D).
+Connected U3 pin 4 to +5V.
+Add net Net-(U3-~{e}).
+Connected U3 pin 9 to Net-(U3-~{e}).
+Add net Net-(U3-A).
+Connected U3 pin 7 to Net-(U3-A).
+Add net Net-(U3-~{f}).
+Connected U3 pin 15 to Net-(U3-~{f}).
+Add net Net-(U3-B).
+Connected U3 pin 1 to Net-(U3-B).
+Add net Net-(U3-C).
+Connected U3 pin 2 to Net-(U3-C).
+Add net Net-(U3-~{a}).
+Connected U3 pin 13 to Net-(U3-~{a}).
+Updated U3 unit metadata.
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Added U4 (footprint 'Package_DIP:DIP-14_W7.62mm').
+Changed REF** reference designator to U4.
+Changed U4 value from DIP-14_W7.62mm to 7490.
+Updated U4 symbol association from  to /6b8a2792-4c11-4a65-a5bf-4add89ec0e19.
+Updated U4 sheetname to '/'.
+Updated U4 sheetfile to 'Two-Digit Digital Counter Design Using 7490 and 7447 ICs.kicad_sch'.
+Connected U4 pin 1 to +5V.
+Connected U4 pin 2 to GND.
+Connected U4 pin 14 to Net-(U4-GND).
+Connected U4 pin 10 to Net-(U4-GND).
+Connected U4 pin 7 to GND.
+Connected U4 pin 9 to +5V.
+Connected U4 pin 8 to +5V.
+Connected U4 pin 3 to GND.
+Connected U4 pin 6 to GND.
+Connected U4 pin 12 to +5V.
+Connected U4 pin 11 to +5V.
+Connected U4 pin 5 to +5V.
+Updated U4 unit metadata.
+Changed REF** reference designator to J1.
+Added U5 (footprint 'Package_DIP:DIP-14_W7.62mm').
+Changed REF** reference designator to U5.
+Changed U5 value from DIP-14_W7.62mm to 7490.
+Updated U5 symbol association from  to /dad90c3c-ef9a-4dad-9d4c-00735c15eec6.
+Updated U5 sheetname to '/'.
+Updated U5 sheetfile to 'Two-Digit Digital Counter Design Using 7490 and 7447 ICs.kicad_sch'.
+Connected U5 pin 9 to Net-(U3-B).
+Connected U5 pin 5 to +5V.
+Connected U5 pin 7 to GND.
+Connected U5 pin 6 to GND.
+Connected U5 pin 3 to GND.
+Connected U5 pin 2 to GND.
+Connected U5 pin 8 to Net-(U3-C).
+Connected U5 pin 12 to Net-(U3-A).
+Connected U5 pin 14 to +5V.
+Connected U5 pin 1 to Net-(U3-A).
+Connected U5 pin 10 to GND.
+Connected U5 pin 11 to Net-(U3-D).
+Updated U5 unit metadata.
+Changed J1 value from PinHeader_1x02_P2.54mm_Vertical to Conn_01x02_Pin.
+Added U6 (footprint 'Display_7Segment:7SegmentLED_LTS6760_LTS6780').
+Changed REF** reference designator to U6.
+Changed U6 value from 7SegmentLED_LTS6760_LTS6780 to HDSP-7501.
+Updated U6 symbol association from  to /cf47a475-36f3-41b8-8560-2bf3f62cbad8.
+Updated U6 fields.
+Updated U6 sheetname to '/'.
+Updated U6 sheetfile to 'Two-Digit Digital Counter Design Using 7490 and 7447 ICs.kicad_sch'.
+Updated U6 footprint filters to 'HDSP?A151*'.
+Connected U6 pin 5 to Net-(U1-~{d}).
+Connected U6 pin 3 to Net-(U1-~{g}).
+Connected U6 pin 10 to Net-(U1-~{a}).
+Connected U6 pin 4 to Net-(U1-~{e}).
+Add net unconnected-(U6-DP-Pad7).
+Connected U6 pin 7 to unconnected-(U6-DP-Pad7).
+Connected U6 pin 9 to Net-(U1-~{b}).
+Connected U6 pin 1 to +5V.
+Connected U6 pin 8 to Net-(U1-~{c}).
+Connected U6 pin 2 to Net-(U1-~{f}).
+Connected U6 pin 6 to +5V.
+Updated U6 unit metadata.
+Updated J1 symbol association from  to /5fe619aa-5881-4c28-93d8-bad04f75f802.
+Added U7 (footprint 'Display_7Segment:7SegmentLED_LTS6760_LTS6780').
+Changed REF** reference designator to U7.
+Changed U7 value from 7SegmentLED_LTS6760_LTS6780 to HDSP-7501.
+Updated U7 symbol association from  to /5fc4a167-dc6e-4bb2-afd5-98c24ff1db51.
+Updated U7 fields.
+Updated U7 sheetname to '/'.
+Updated U7 sheetfile to 'Two-Digit Digital Counter Design Using 7490 and 7447 ICs.kicad_sch'.
+Updated U7 footprint filters to 'HDSP?A151*'.
+Connected U7 pin 5 to Net-(U3-~{d}).
+Connected U7 pin 4 to Net-(U3-~{e}).
+Connected U7 pin 3 to Net-(U3-~{g}).
+Connected U7 pin 9 to Net-(U3-~{b}).
+Connected U7 pin 6 to +5V.
+Connected U7 pin 1 to +5V.
+Connected U7 pin 2 to Net-(U3-~{f}).
+Add net unconnected-(U7-DP-Pad7).
+Connected U7 pin 7 to unconnected-(U7-DP-Pad7).
+Connected U7 pin 8 to Net-(U3-~{c}).
+Connected U7 pin 10 to Net-(U3-~{a}).
+Updated U7 unit metadata.
+Warning: No net found for component U5 pad 4 (no pin 4 in symbol).
+Warning: No net found for component U4 pad 13 (no pin 13 in symbol).
+Warning: No net found for component U5 pad 13 (no pin 13 in symbol).
+Warning: No net found for component U4 pad 4 (no pin 4 in symbol).
+
+
+Info: Total warnings: 4, errors: 0.
